@@ -1,38 +1,12 @@
 <div align="center"> 
 
-# Welcome to the Miata NB1 Intake Development github!
+# Welcome to the Mazda B6D Intake Development github!
 
-We aim for this project to not only be an exciting quest for performance but also a source of education for those who follow along. It will be with our best effort that we as the development team document our data, whether previously known or freshly discovered, in a format designed to be read and understood by anyone with a basic understanding of engine design concepts.  
+This is a fork of Stand Racing's 1.8 ITB manifold. The 1.6 offers zero credible after-market options for intake manifolds, and the factory manifold is both heavy and restrictive. With consumer 3D printing now comfortably allowing for printing with materials like Nylon and PC which can withstand heat and offer much better layer adhesion than what we might find with ASA. 
 
-We encourage those of you following along with the project to perform experiments of your own, and apply what you discover in this database to your own projects, and if you don’t have a project, start one!  
+This particular manifold will be used in a boosted application going to Pike's Peak. More updates to follow. 
 
-Fostering a sense of community has been, and will always be, the number one priority in every open-source project led by Stand Motor Company. We are grateful for everyone’s participation in each step of the journey, and we are honored to be involved in a step of your own.  
-
-<br />
-
-**So, with that, here are the technical guidelines:**
-</div>
-
-<br />
-<br />
-
-# Non-Negotiables:
-
-<br />
-<br />
-
-- ## Individual Throttle Bodies:
-The heart of the design. If we discover that the ITB’s offer no benefit apart from the beautiful song that they sing and the stunning novelty that they offer, it will be enough.
-
-- ## Plenum Design:
-Awesome as ITB’s are, we don’t like the idea of dirt getting sucked into your expensive racing engine through open velocity stacks. ITB air filter systems are either A) bulky, or B) restrictive, and they don’t offer the tuning benefits that a plenum design does.
-
-- ## Dual-Runner:
-The tricky part. Ideally, the goal is to design a broadband manifold that operates well at high-RPM, and low/mid-RPM without any moving parts. However, the dual-performance nature of our intake is of a higher priority than the solid-state ideal, so we will involve whatever moving parts are necessary to achieve the broadband performance we desire.
-
-<br />
-<br />
-
+From the original page:
 # Project Goals:
 
 <br />
